@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\TopTenVideoGames\bin\Debug\TopTenVideoGames.exe.config
+C:\Users\Nolan Pawelski\Desktop\TopTenVideoGames\bin\Debug\TopTenVideoGames.exe
+C:\Users\Nolan Pawelski\Desktop\TopTenVideoGames\bin\Debug\TopTenVideoGames.pdb
+C:\Users\Nolan Pawelski\Desktop\TopTenVideoGames\obj\Debug\TopTenVideoGames.csprojAssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\TopTenVideoGames\obj\Debug\TopTenVideoGames.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\TopTenVideoGames\obj\Debug\TopTenVideoGames.exe
+C:\Users\Nolan Pawelski\Desktop\TopTenVideoGames\obj\Debug\TopTenVideoGames.pdb
